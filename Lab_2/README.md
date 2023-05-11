@@ -1,1 +1,1 @@
-Interpolated input FFT Reodering verilog 구현
+Interpolated input 128 FFT Reodering verilog 구현
